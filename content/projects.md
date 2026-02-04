@@ -12,22 +12,20 @@ A collection of things I've built.
 
 ## AccentGuessr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. A game where you guess accents from around the world.
+I made a GeoGuessr-like that asks you to guess where people are from based solely on hearing them read out a standardized passage in English. Many thanks to the GMU Speech Accent Archive for creating such a repository. 
 
-[Try it out →](https://accentguessr.com)
+[Try it out →](https://accentguessr.io)
 
 ---
 
 ## IWDGuessr
 
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Description of the project goes here.
-
-[Check it out →](https://iwdguessr.com)
+I set up a game that has you guess which among two Magic cards has the higher "improvement when drawn" from a given draft metagame. This is an imperfect proxy for card quality but I thought it could help some people drill a given format. Website coming soon
 
 ---
 
-## Stylebot
+## Stylint
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. A browser extension for customizing website styles.
+Personalizable style guide for small newspapers. Website also coming soon
 
 [View project →](https://github.com/jacobzucker/stylebot)

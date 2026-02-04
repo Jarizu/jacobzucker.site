@@ -27,7 +27,7 @@ Yet now, I find I've grown into a tall child \
 And I don't wanna go home yet \
 Let me walk to the top of the big night sky 
 
-While 2016's [Your Best American Girl](https:\\open.spotify.com\track\7g5qe8VITjr13RIe8uM2p6?si=b6069e7a99a44696), [once named Pitchfork's seventh best song of the last decade](https:\\pitchfork.com\features\lists-and-guides\the-200-best-songs-of-the-2010s\), highlights her inability to properly fulfill the eponymous role of Best American Girl:
+While 2016's [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6?si=b6069e7a99a44696), [once named Pitchfork's seventh best song of the last decade](https://pitchfork.com/features/lists-and-guides/the-200-best-songs-of-the-2010s/), highlights her inability to properly fulfill the eponymous role of Best American Girl:
 
 Your mother wouldn't approve of how my mother raised me \
 But I do, I think I do \
