@@ -1,9 +1,7 @@
 +++
-title = "Example Note"
+title = "First Note"
 date = 2025-02-04
-draft = true
+draft = false
 +++
 
-This is an example note. Delete this file or set `draft = false` to publish.
-
-To create a new note, just create a new `.md` file in the `content/notes/` folder with the same format.
+I figured I might as well have a website. Unlike [[my Substack]](jacobzucker.substack.com), I plan to use this space for more miscellaneous thoughts that don't fit neatly into a longform, rigorously researched piece. Although perhaps some of my doodles here will make it into Substack pieces eventually, in one form or another.
