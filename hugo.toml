@@ -1,0 +1,41 @@
+# Base URL - update this when you deploy
+baseURL = "https://jacobzucker.site/"
+
+# Theme
+theme = 'hugo-bearblog'
+
+# Basic metadata
+title = "Jacob Zucker"
+author = "Jacob Zucker"
+copyright = "Copyright © 2025, Jacob Zucker."
+languageCode = "en-US"
+
+# SEO
+enableRobotsTXT = true
+
+# Clean URLs like bearblog
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[permalinks]
+  notes = "/:slug/"
+  songs = "/songs/:slug/"
+
+[params]
+  description = "Jacob Zucker's personal website"
+  title = "Jacob Zucker"
+  # hideMadeWithLine = true
+  dateFormat = "Jan 2, 2006"
+
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
+
+# External link in menu (Substack)
+[[menu.main]]
+  name = "Substack"
+  url = "https://jacobzucker.substack.com"
+  weight = 50
