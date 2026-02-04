@@ -20,7 +20,7 @@ So I'm loitering outside \
 Watching all the cars passing by \
 Like a kid waiting for my ride 
 
-In her 2014 song [First Love \ Late Spring](https:\\open.spotify.com\track\3sslYZcFKtUvIEWN9lADgr?si=5b4c79a2c44b4d5e), the second and final verse reads:
+In her 2014 song [First Love / Late Spring](https:\\open.spotify.com\track\3sslYZcFKtUvIEWN9lADgr?si=5b4c79a2c44b4d5e), the second and final verse reads:
 
 And I was so young when I behaved twenty-five \
 Yet now, I find I've grown into a tall child \
