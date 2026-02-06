@@ -18,9 +18,11 @@ I made a GeoGuessr-like that asks you to guess where people are from based solel
 
 ---
 
-## IWDGuessr
+## IIHGuessr
 
-I set up a game that has you guess which among two Magic cards has the higher "improvement when drawn" from a given draft metagame. This is an imperfect proxy for card quality but I thought it could help some people drill a given format. Website coming soon
+I set up a game that has you guess which among two Magic cards has the higher "improvement in hand" from a given BO1 draft metagame. This is an imperfect proxy for card quality but I thought it could help some people drill a given format.
+
+[Try it out →](https://iihguessr.com/)
 
 ---
 
