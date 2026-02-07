@@ -56,7 +56,7 @@ A Catholic priest walks by and notices these two beggars. He stops in front of t
 
 The Jewish beggar turns to the Christian beggar and says, "Can you believe that? This goy is trying to show *us* how to make money!"
 
-**Funny you shuold say that**
+**Funny you should say that**
 
 A middle-aged Jewish man goes to his rabbi: "Rabbi, you gotta help me. My son, for 30 years he's a Jew, and now bam! He says he's a Christian!"
 
