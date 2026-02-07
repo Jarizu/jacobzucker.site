@@ -4,8 +4,6 @@ menu = "main"
 weight = 10
 +++
 
----
-
 ## Stylint
 
 Customizable AI-powered style guide editor, intended for small newspapers. 
