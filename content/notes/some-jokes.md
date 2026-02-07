@@ -4,7 +4,7 @@ date = 2025-02-07
 draft = false
 +++
 
-There's lots of discourse around Jews these days. We have Jeffrey Epstein to thank for that. One strange consequence of the recent release of his emails is that [more people than ever](https://trends.google.com/explore?q=goyim&date=today%201-y&geo=Worldwide) are using the term "goyim." It's a curious pseudo-slur, and it reminds me of some my favorite Jew jokes. Below I have left a chronicle of a few of the good ones I've encountered in my 22 years of life as a Jew. 
+There's lots of discourse around Jews these days. We have Jeffrey Epstein to thank for that. One strange consequence of the recent release of his emails is that [more people than ever](https://trends.google.com/explore?q=goyim&date=today%201-y&geo=Worldwide) are using the term "goyim." It's a curious pseudo-slur, and it reminds me of some of my favorite Jew jokes. Below I have left a chronicle of a few of the good ones I've encountered in my 22 years of life as a Jew. 
 
 **Soviet emigration**
 
