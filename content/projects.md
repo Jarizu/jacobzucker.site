@@ -4,7 +4,6 @@ menu = "main"
 weight = 10
 +++
 
-# Projects
 ---
 
 ## Stylint
