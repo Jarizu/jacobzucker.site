@@ -7,6 +7,14 @@ weight = 10
 # Projects
 ---
 
+## Stylint
+
+Customizable AI-powered style guide editor, intended for small newspapers. 
+
+[Try it out →](https://stylint.net)
+
+---
+
 ## AccentGuessr
 
 I made a GeoGuessr-like that asks you to guess where people are from based solely on hearing them read out a standardized passage in English. Many thanks to the GMU Speech Accent Archive for creating such a repository. 
@@ -17,14 +25,9 @@ I made a GeoGuessr-like that asks you to guess where people are from based solel
 
 ## IIHGuessr
 
-I set up a game that has you guess which among two Magic cards has the higher "improvement in hand" from a given BO1 draft metagame. This is an imperfect proxy for card quality but I thought it could help some people drill a given format.
+I set up a game that has you guess which among two Magic: The Gathering cards has the higher "improvement in hand" from a given best-of-one draft format. This is an imperfect proxy for card quality but I thought it could help some people drill a given format and also help them internalize general patterns about what makes a card strong in Limited. 
 
 [Try it out →](https://iihguessr.com/)
 
 ---
 
-## Stylint
-
-Personalizable style guide for small newspapers. Website also coming soon
-
-[Try it out →](https://stylint.net)
