@@ -5,9 +5,6 @@ weight = 10
 +++
 
 # Projects
-
-A collection of things I've built.
-
 ---
 
 ## AccentGuessr
@@ -30,4 +27,4 @@ I set up a game that has you guess which among two Magic cards has the higher "i
 
 Personalizable style guide for small newspapers. Website also coming soon
 
-[View project →](https://github.com/jacobzucker/stylebot)
+[Try it out →](https://stylint.net)
