@@ -6,7 +6,7 @@ draft = false
 
 There's lots of discourse around Jews these days. We have Jeffrey Epstein to thank for that. One strange consequence of the recent release of his emails is that more people than ever are using the term "goyim." It's a curious pseudo-slur, and it reminds me of some my favorite Jew jokes. Below I have left a chronicle of a few of the good ones I've encountered in my 22 years of life as a Jew. 
 
-*Soviet emigration*
+**Soviet emigration**
 
 For many decades, the Soviet Union limited emigration. Many Jews in particular wanted to leave the country, as they were treated quite poorly there, but leaving was prohibited. International pressure forced their hand, and they finally started allowing some Jews to leave their country. This man wanted to go to New York, but the agent at the gate to the airport was giving him a hard time.
 
@@ -26,7 +26,7 @@ That's not it, I can't complain about Russian women.
 
 In New York, I can complain. 
 
-*The country club*
+**The country club**
 
 Three businessmen, all born Jewish but now Christian, are meeting for lunch at a very nice country club.
 
@@ -38,13 +38,13 @@ The third businessman, named Ezra, chimes in - "Myself, I converted for the supe
 
 The other two men turn to him shocked. Daniel asks: "What are you, a fucking goy?"
 
-*Trump and Reform Jews*
+**Trump and Reform Jews**
 
 What's the difference between Donald Trump and a Reform Jew? 
 
 Trump has Jewish grandchildren.
 
-*Beggars in the Vatican*
+**Beggars in the Vatican**
 
 Two beggars set up shop outside the Sistine Chapel. They both have their hats in front of them, but while one's hat is overflowing with coins and even euro bills the other is struggling to attract more than a few pence.
 
@@ -56,7 +56,7 @@ A Catholic priest walks by and notices these two beggars. He stops in front of t
 
 The Jewish beggar turns to the Christian beggar and says, "Can you believe that? This goy is trying to show *us* how to make money!"
 
-*Funny you shuold say that*
+**Funny you shuold say that**
 
 A middle-aged Jewish man goes to his rabbi: "Rabbi, you gotta help me. My son, for 30 years he's a Jew, and now bam! He says he's a Christian!"
 
@@ -70,7 +70,7 @@ They go to Rabbi Spiegel, the eldest of all. Same story. Finally they all pray t
 
 A voice booms from the heavens: "Funny you should say that..."
 
-*Gentile businessmen*
+**Gentile businessmen**
 
 Two gentile businessmen run into each other on the Upper East Side. 
 
