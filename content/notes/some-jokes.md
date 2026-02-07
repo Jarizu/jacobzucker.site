@@ -34,7 +34,7 @@ Daniel is the host. He's a member at the club. He shares with his friends: "Than
 
 His companion Jonathan nods sagely and says: "Me, I would have been happy to go to synagogue every week. But religion matters a lot to my wife's family, so I converted." 
 
-The third businessman, named Ezra, chimes in - "Myself, I converted for the superiority of the teachings." 
+The third businessman, named Ezra, chimes in: "Myself, I converted for the superiority of the teachings." 
 
 The other two men turn to him shocked. Daniel asks: "What are you, a fucking goy?"
 
