@@ -1,5 +1,7 @@
 +++
 title = "Notes"
-menu = "main"
 weight = 20
+[_build]
+  list = "never"
+  render = "never"
 +++
