@@ -34,8 +34,6 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNumbersInTable = false
     codeFences = true
 
-# External link in menu (Substack)
-[[menu.main]]
-  name = "Substack"
-  url = "https://jacobzucker.substack.com"
-  weight = 50
+[caches]
+  [caches.getresource]
+    maxAge = "1h"

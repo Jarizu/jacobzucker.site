@@ -1,0 +1,20 @@
+name: Daily Vercel Rebuild
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel Deploy Hook
+        env:
+          HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$HOOK_URL" ]; then
+            echo "VERCEL_DEPLOY_HOOK_URL secret is not set." >&2
+            exit 1
+          fi
+          curl -fsS -X POST "$HOOK_URL"
