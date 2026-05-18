@@ -4,6 +4,14 @@ menu = "main"
 weight = 10
 +++
 
+## LeetProse
+
+You've seen LeetCode. Now try LeetProse, where your challenge is to outwrite an LLM. Half-game and half-benchmark, this project seeks to gauge writing ability of both man and machine. Try to climb the leaderboard!
+
+[Try it out →](https://leetprose.com)
+
+---
+
 ## Stylint
 
 Customizable AI-powered style guide editor, intended for small newspapers. 
