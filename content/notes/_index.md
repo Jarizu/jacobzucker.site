@@ -1,7 +1,7 @@
 +++
 title = "Notes"
 weight = 20
-[_build]
+[build]
   list = "never"
   render = "never"
 +++

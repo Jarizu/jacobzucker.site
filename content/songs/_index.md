@@ -1,7 +1,7 @@
 +++
 title = "Song of the Day"
 weight = 30
-[_build]
+[build]
   list = "never"
   render = "never"
 +++

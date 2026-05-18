@@ -4,11 +4,11 @@
 <p>Posts from <a href="https://jacobzucker.substack.com">my Substack</a>.</p>
 
 {{ $feed := "https://jacobzucker.substack.com/feed" }}
-{{ with resources.GetRemote $feed }}
+{{ with try (resources.GetRemote $feed) }}
   {{ with .Err }}
-    <p><em>Couldn't load posts right now. Visit <a href="https://jacobzucker.substack.com">jacobzucker.substack.com</a>.</em></p>
     {{ warnf "Substack feed fetch error: %s" . }}
-  {{ else }}
+    <p><em>Couldn't load posts right now. Visit <a href="https://jacobzucker.substack.com">jacobzucker.substack.com</a>.</em></p>
+  {{ else with .Value }}
     {{ $rss := .Content | transform.Unmarshal }}
     <ul class="blog-posts">
       {{ range $rss.channel.item }}
@@ -18,8 +18,8 @@
         </li>
       {{ end }}
     </ul>
+  {{ else }}
+    <p><em>No posts to show. Visit <a href="https://jacobzucker.substack.com">jacobzucker.substack.com</a>.</em></p>
   {{ end }}
-{{ else }}
-  <p><em>Couldn't load posts right now. Visit <a href="https://jacobzucker.substack.com">jacobzucker.substack.com</a>.</em></p>
 {{ end }}
 {{ end }}
